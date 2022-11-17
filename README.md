@@ -14,17 +14,17 @@ Docente: Ing. Darwin Omar Alulema Flores
 
 # 1. OBJETIVOS
 ### 1.1 Objetivos generales
-• 
+• Calcular la corriente, el voltaje y la resistencia en un circuito eléctrico, a su vez que describimos la aproximación básica a la localización de fallas.
 
-• 
+• Calcular la potencia en un circuito y explicar la conversión de energía y la caída de voltaje.
 
-• 
+
 ### 1.2 Objetivos específicos 
-• 
+• Aplicar correctamente las leyes de ohm para realizar cálculos de corriente, voltaje y resistencia.
 
-• 
+• Describir una aproximación básica a la localización de fallas mediante la realización de un análisis visual.
 
-• 
+• Calcular la potencia aplicando las diferentes fórmulas aprendidas a lo largo del capítulo 4.
 # 2. MARCO TEORICO
 ![image](https://user-images.githubusercontent.com/116775893/202290558-a5d84bd8-86b4-4898-9498-ec79b076e560.png)
 ![image](https://user-images.githubusercontent.com/116775893/202290688-d8c05804-00b4-4b78-80c5-19af398dc045.png)
@@ -70,11 +70,12 @@ Docente: Ing. Darwin Omar Alulema Flores
 
 # 5. CONCLUSIONES 
 
-• 
+• En conclusión, mediante la revisión de los capítulos 3 y 4 conocimos las facilidades que nos da la ley de ohm para realizar los cálculos de resistencia, corriente y voltaje, dichos cálculos nos permitirán conocer los valores que se presentan en un circuito resistivo.
 
-• 
+• Después de realizar varios ejercicios, observamos que cuanto más altos sean los vatios de un dispositivo se puede obtener más energía de el por unidad de tiempo.
 
-• 
+• Finalmente, nos dimos cuenta de que un dispositivo con una mala eficiencia nos da como resultado un desperdicio de energía.
+
 # 6. BIBLIOGRAFIA
 
 Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. Pearson Educación
