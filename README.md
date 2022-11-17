@@ -66,7 +66,7 @@ Docente: Ing. Darwin Omar Alulema Flores
 ![image](https://user-images.githubusercontent.com/116775893/202296743-22ccc55b-b963-4faa-9242-91feb79563ae.png)
 ![image](https://user-images.githubusercontent.com/116775893/202296766-875477d6-39fd-412e-a367-302555e1036a.png)
 # 4. VIDEO 
-
+https://youtu.be/EC6wyOq3XzM
 
 # 5. CONCLUSIONES 
 
